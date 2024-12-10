@@ -19,7 +19,7 @@ async function initializeDb() {
     host: '34.162.85.171',
     user: 'cloudfinal',
     password: 'Sairaviteja@145',
-    database: 'mysql',
+    database: 'krogerdata',
     waitForConnections: true,
     connectionLimit: 10,
     queueLimit: 0,
